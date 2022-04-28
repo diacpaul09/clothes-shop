@@ -6,10 +6,10 @@ import './sign-in-and-sign-up.styles.scss'
 
 
 
-const SintInAndSingUpPage = () => (
+const SigntInAndSingUpPage = () => (
     <div className="sign-in-and-sign-up">
         <SignIn />
         <SignUp />
     </div>
 )
-export default SintInAndSingUpPage
+export default SigntInAndSingUpPage
