@@ -25,7 +25,7 @@
 }
 
 div::-webkit-scrollbar {
-  width: 1em;
+  width: 0.5em;
 }
  
 div::-webkit-scrollbar-track {
@@ -33,6 +33,6 @@ div::-webkit-scrollbar-track {
 }
  
 div::-webkit-scrollbar-thumb {
-  background-color: darkgrey;
-  outline: 1px solid slategrey;
+  background-color: gray;
+  outline: 1px solid black;
 }
