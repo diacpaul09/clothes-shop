@@ -9,7 +9,7 @@ import './collection.styles.scss'
 
 const withRouter = WrappedComponent => props => {
     const params = useParams()
-
+    console.log(params.collectionId)
     return (
         <WrappedComponent {...props} params={params} />
     )
