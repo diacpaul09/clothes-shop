@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clothes-shop/static/css/main.48d76dee.css",
-    "main.js": "/clothes-shop/static/js/main.365ac8d0.js",
-    "static/media/shopping-bag.svg": "/clothes-shop/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
-    "static/media/crown.svg": "/clothes-shop/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
-    "index.html": "/clothes-shop/index.html",
-    "main.48d76dee.css.map": "/clothes-shop/static/css/main.48d76dee.css.map",
-    "main.365ac8d0.js.map": "/clothes-shop/static/js/main.365ac8d0.js.map"
+    "main.css": "/clothes-shopgit%20/static/css/main.48d76dee.css",
+    "main.js": "/clothes-shopgit%20/static/js/main.ea427646.js",
+    "static/media/shopping-bag.svg": "/clothes-shopgit%20/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/clothes-shopgit%20/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/clothes-shopgit%20/index.html",
+    "main.48d76dee.css.map": "/clothes-shopgit%20/static/css/main.48d76dee.css.map",
+    "main.ea427646.js.map": "/clothes-shopgit%20/static/js/main.ea427646.js.map"
   },
   "entrypoints": [
     "static/css/main.48d76dee.css",
-    "static/js/main.365ac8d0.js"
+    "static/js/main.ea427646.js"
   ]
 }
