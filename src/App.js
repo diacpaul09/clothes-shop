@@ -4,7 +4,7 @@ import { Navigate } from "react-router-dom";
 import { connect } from "react-redux";
 import { createStructuredSelector } from "reselect";
 
-import "./App.css";
+import "./App.css"; 
 
 import HomePage from "./pages/homepage/homepage.component";
 import ShopPage from "./pages/shop/shop.component";
@@ -50,14 +50,13 @@ class App extends React.Component {
         <Header />
         <Routes>
           <Route exact path="/" element={<HomePage />} />
-          <Route path="/shop" element={<ShopPage />} />
+          <Route path="/shop/*" element={<ShopPage />} />
           <Route exact path="/checkout" element={<Checkout />} />
           {console.log(this.props.currentUser)}
           <Route
             exact
             path="/signin"
             element={
-              
               this.props.currentUser ? (
                 <Navigate to="/" replace />
               ) : (
